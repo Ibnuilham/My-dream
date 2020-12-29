@@ -6,3 +6,4 @@ Planning dalam waktu dekat
 -belajar tailwind
 -belajar bootstrap
 -belajar API
+-bealajar react
