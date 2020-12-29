@@ -5,3 +5,5 @@ Planning dalam waktu dekat
 -belajar vuejs
 -belajar tailwind
 -belajar bootstrap
+-belajar API
+-bealajar react
