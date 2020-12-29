@@ -4,4 +4,4 @@ Planning dalam waktu dekat
 -belajar laravel
 -belajar vuejs
 -belajar tailwind
-
+-belajar bootstrap
